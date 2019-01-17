@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pcdgroup.cms.PcdEcom.PcdEcomApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.41 s - in com.pcdgroup.cms.PcdEcom.PcdEcomApplicationTests
